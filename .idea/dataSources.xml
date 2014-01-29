@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1850044819">
+    <data-source source="LOCAL" name="Rails herokutest: development" uuid="d0456086-0f08-40f8-899a-915e8f25e95c">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:herokutest_development</jdbc-url>
+      <user-name>herokutest</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails herokutest: test" uuid="ac2ec547-b376-417e-a5f1-f457f3282b5c">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:herokutest_test</jdbc-url>
+      <user-name>herokutest</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails herokutest: production" uuid="37a9a289-fd09-46d2-a028-00982aa8e12e">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:herokutest_production</jdbc-url>
+      <user-name>herokutest</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
